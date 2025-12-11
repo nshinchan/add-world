@@ -24,5 +24,4 @@ function mover(myid){
 function submover(img){
 	var myimg = document.getElementById("add_img");
 	myimg.src = img + ".png";
-	myimg.onmouseout = function() { myimg.hidden = true; }
 }
