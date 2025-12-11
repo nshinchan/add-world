@@ -1,0 +1,36 @@
+h1 {
+	color: #375e97;
+	font-size: 2em;
+	font-family: cursive;
+	border-bottom: 1px solid #375e97;
+}
+
+a {
+	border-style: solid;
+	padding: 0.5em;
+	font-weight: bold;
+	padding: 10px;
+	margin: 0.5em 0;
+	border-radius: 0.5em;
+	background-color: greenyellow;
+}
+
+body{
+	background-color: pink;
+}
+
+
+ul {
+	position: absolute;
+	list-style-type: none;
+	font-weight: bold;
+}
+
+img {
+	margin-top: 40px;
+	margin-left: 40%;
+}
+
+li:hover {
+	background-color: red;
+}
